@@ -98,10 +98,10 @@ mod tests {
 
     #[test]
     fn test_when_does_santa_get_to_the_basement() {
-        assert_eq!(when_does_santa_get_to_the_basement(")"), Ok(Some(1)));
-        assert_eq!(when_does_santa_get_to_the_basement("()())"), Ok(Some(5)));
+        assert_eq!(when_does_santa_get_to_the_basement(")"), Ok(1));
+        assert_eq!(when_does_santa_get_to_the_basement("()())"), Ok(5));
         assert_eq!(when_does_santa_get_to_the_basement("()e)()"), Err(InvalidCharacter('e')));
-        assert_eq!(when_does_santa_get_to_the_basement("())e()"), Ok(Some(3)));
+        assert_eq!(when_does_santa_get_to_the_basement("())e()"), Ok(3));
     }
 }
 
