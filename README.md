@@ -13,14 +13,32 @@ Progress
 
 The checkmarks are links to the source file in case you want to check them out.
 
-| Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-|-----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 2015 | [:white_check_mark:](/src/bin/2015-01.rs) | [:white_check_mark:](/src/bin/2015-02.rs) |
-| 2016 |
-| 2017 |
-| 2018 |
-| 2019 |
-| 2020 |
-| 2021 |
-| 2022 |
-| 2023 |
+### 2015
+
+| Day | Status |
+|----:|:------:|
+| 1   | [:white_check_mark:](/src/bin/2015-01.rs) |
+| 2   | [:white_check_mark:](/src/bin/2015-02.rs) |
+| 3   | [:white_check_mark:](/src/bin/2015-03.rs) |
+| 4   | :negative_squared_cross_mark: |
+| 5   | :negative_squared_cross_mark: |
+| 6   | :negative_squared_cross_mark: |
+| 7   | :negative_squared_cross_mark: |
+| 8   | :negative_squared_cross_mark: |
+| 9   | :negative_squared_cross_mark: |
+| 10  | :negative_squared_cross_mark: |
+| 11  | :negative_squared_cross_mark: |
+| 12  | :negative_squared_cross_mark: |
+| 13  | :negative_squared_cross_mark: |
+| 14  | :negative_squared_cross_mark: |
+| 15  | :negative_squared_cross_mark: |
+| 16  | :negative_squared_cross_mark: |
+| 17  | :negative_squared_cross_mark: |
+| 18  | :negative_squared_cross_mark: |
+| 19  | :negative_squared_cross_mark: |
+| 20  | :negative_squared_cross_mark: |
+| 21  | :negative_squared_cross_mark: |
+| 22  | :negative_squared_cross_mark: |
+| 23  | :negative_squared_cross_mark: |
+| 24  | :negative_squared_cross_mark: |
+| 25  | :negative_squared_cross_mark: |
